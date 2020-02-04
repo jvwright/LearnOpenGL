@@ -62,6 +62,7 @@ set(CHAPTERS
     5.advanced_lighting
     6.pbr
     7.in_practice
+    test-jwright
 )
 
 set(1.getting_started
@@ -162,6 +163,10 @@ set(6.pbr
 set(7.in_practice
     1.debugging
     # 2.text_rendering
+)
+
+set(test-jwright
+    test-jwright
 )
 
 
